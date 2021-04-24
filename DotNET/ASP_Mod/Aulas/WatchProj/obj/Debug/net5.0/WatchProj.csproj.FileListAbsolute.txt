@@ -1,0 +1,16 @@
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/bin/Debug/net5.0/WatchProj
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/bin/Debug/net5.0/WatchProj.deps.json
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/bin/Debug/net5.0/WatchProj.runtimeconfig.json
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/bin/Debug/net5.0/WatchProj.runtimeconfig.dev.json
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/bin/Debug/net5.0/WatchProj.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/bin/Debug/net5.0/ref/WatchProj.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/bin/Debug/net5.0/WatchProj.pdb
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.csprojAssemblyReference.cache
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.AssemblyInfoInputs.cache
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.AssemblyInfo.cs
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.csproj.CoreCompileInputs.cache
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/ref/WatchProj.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.pdb
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/WatchProj/obj/Debug/net5.0/WatchProj.genruntimeconfig.cache
