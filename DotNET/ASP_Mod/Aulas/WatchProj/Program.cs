@@ -11,7 +11,7 @@ namespace WatchProj
             Console.WriteLine("Testando o \'dotnet watch run\'");
             var nome = "Kaique";
             Console.WriteLine(nome);
-
+            Console.WriteLine("Hora e data atuais: " + DateTime.Now);
 
         }
     }
