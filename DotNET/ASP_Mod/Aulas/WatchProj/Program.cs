@@ -13,6 +13,14 @@ namespace WatchProj
             Console.WriteLine(nome);
             Console.WriteLine("Hora e data atuais: " + DateTime.Now);
 
+            string greeting = "Hello";
+            string firstName = "Bob";
+            //string message = $"{greeting} {firstName}!";
+            Console.WriteLine($@"{greeting} {firstName}!
+                        na parte de baixo!");
+
+            // $ -> Interpolação
+            // @ -> Abolição dos escapes (\)
         }
     }
 }

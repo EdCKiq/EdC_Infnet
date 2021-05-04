@@ -38,3 +38,5 @@
 /home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/ProjOne/obj/Debug/net5.0/ProjOne.pdb
 /home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/ProjOne/obj/Debug/net5.0/ProjOne.genruntimeconfig.cache
 /home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/ProjOne/obj/Debug/net5.0/ProjOne.csproj.CopyComplete
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/ProjOne/bin/Debug/net5.0/Core.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/ProjOne/bin/Debug/net5.0/Core.pdb

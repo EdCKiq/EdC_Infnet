@@ -1,0 +1,12 @@
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/bin/Debug/net5.0/Core.deps.json
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/bin/Debug/net5.0/Core.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/bin/Debug/net5.0/ref/Core.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/bin/Debug/net5.0/Core.pdb
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/Core.csprojAssemblyReference.cache
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/Core.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/ref/Core.dll
+/home/kiqec/Estudos/EdC_Infnet/DotNET/ASP_Mod/Aulas/Core/obj/Debug/net5.0/Core.pdb

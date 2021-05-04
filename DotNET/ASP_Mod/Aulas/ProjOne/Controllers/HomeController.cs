@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ProjOne.Models;
+using Core;
 
 namespace ProjOne.Controllers
 {
@@ -20,6 +21,15 @@ namespace ProjOne.Controllers
 
         public IActionResult Index()
         {
+            var showAny = new ShowAny(); 
+            showAny.showPerson();
+            return View();
+        }
+
+        public IActionResult Show(){
+            var showAny = new ShowAny(); 
+            showAny.showPerson();
+            
             return View();
         }
 
