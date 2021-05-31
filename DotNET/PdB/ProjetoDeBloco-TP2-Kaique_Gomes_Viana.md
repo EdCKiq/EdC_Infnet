@@ -1,5 +1,5 @@
 ﻿## Casos de Uso
-|| Caso de Uso 01 | |
+|| Caso de Uso 01 |
 |------------------|:-----------------------:|
 |            |  Criar conta na rede. | |
 | **Atores**       | Usuário <br/> Sistema | 
@@ -9,7 +9,7 @@
 | **Regras de validação:** |Confirmação de e-mail e senha: o usuário deve fornecer os dados duas vezes para minimizar o risco de erro.<br/>Validação de e-mail: verificar se o e-mail está em um formato válido, se o e-mail já consta na base de dados.<br/>Validação de senha: verificar se a senha respeita os requisitos de segurança (quais?).|
 |**Pós-condições:**|   Nenhuma|
 
-|| Caso de Uso 02 | |
+|| Caso de Uso 02 |
 |------------------|:-----------------------:|
 |            |  Adicionar fotos | |
 | **Atores**       | Usuário <br/> Sistema | 
@@ -19,7 +19,7 @@
 | **Regras de validação:** |Verificação de imagem com formato e tamanho aceitáveis.<br/> Verificação de foto com conteúdo improprio e/ou sensível.|
 |**Pós-condições:**|   Nenhuma|
 
-|| Caso de Uso 03 | |
+|| Caso de Uso 03 |
 |------------------|:-----------------------:|
 |            |  Interação entre usuários | |
 | **Atores**       | Usuário <br/> Sistema | 
@@ -29,7 +29,7 @@
 | **Regras de validação:** |Verificação de comportamento dos usuários.<br/> Verificação de periculosidade em interações dentro da plataforma.|
 |**Pós-condições:**|   Nenhuma|
 
-|| Caso de Uso 04 | |
+|| Caso de Uso 04 |
 |------------------|:-----------------------:|
 |            |  Perfis acadêmicos | 
 | **Atores**       | Usuário <br/> Sistema | 
@@ -39,7 +39,7 @@
 | **Regras de validação:** |Verificação geral de veracidade.<br/> Verificação posterior mais detalhada do perfil requerente.|
 |**Pós-condições:**|   Nenhuma|
 
-|| Caso de Uso 05 | |
+|| Caso de Uso 05 |
 |------------------|:-----------------------:|
 |            |  Banimento | |
 | **Atores**       | Usuário <br/> Sistema | 
