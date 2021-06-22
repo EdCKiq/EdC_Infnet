@@ -32,3 +32,6 @@
 #### Package Diagram with base in Use Case 3 and 4
 ![Diagram Part 1](part1.png)
 ![Diagram Part 2](part2.png)
+
+> Obs: Está partido pois fiz em um site aleatório e ao tentar exportar dava erro no site em si, então tirei print.
+> gastei tempo demais nisso para perder :stuck_out_tongue_closed_eyes:
