@@ -33,5 +33,5 @@
 ![Diagram Part 1](part1.png)
 ![Diagram Part 2](part2.png)
 
-> Obs: Está partido pois fiz em um site aleatório e ao tentar exportar dava erro no site em si, então tirei print.<\br>
-> gastei tempo demais nisso para perder :stuck_out_tongue_closed_eyes:
+> Obs: Está partido pois fiz em um site aleatório e ao tentar exportar dava erro no site em si, então tirei print.<br>
+> Gastei tempo demais nisso para perder :stuck_out_tongue_closed_eyes:
