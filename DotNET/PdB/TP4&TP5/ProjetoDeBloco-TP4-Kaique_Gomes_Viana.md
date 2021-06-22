@@ -28,3 +28,7 @@
 #### Imagem do Diagrama
 ![Diagrama](UMLD.png)
 
+
+#### Package Diagram with base in Use Case 3 and 4
+![Diagram Part 1](part1.png)
+![Diagram Part 2](part2.png)
